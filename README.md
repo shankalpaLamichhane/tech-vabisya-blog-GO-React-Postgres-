@@ -9,7 +9,7 @@ Dockerfile added to both frontend and backend
 ![](tech-vabisya/client/public/images/preview/two.png)
 
 **Preview Three (Admin Panel)**
-You can add,update,view blog posts detail with image customizable description ( react-quill used for this )
+You can add,update,view blog posts detail with image and customizable description ( react-quill used for this )
 
 ![](tech-vabisya/client/public/images/preview/three.png)
 

@@ -11,7 +11,7 @@ COPY go.sum .
 
 RUN go mod download
 
-COPY . .
+COPY .. .
 
 # Build the Go app
 RUN go build -o ./out/go-blog .
